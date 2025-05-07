@@ -2,7 +2,7 @@ package school.sptech;
 
 import java.util.List;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         List<String> mensagensSemanais = List.of(
                 "📌 Lembrete semanal: continue acompanhando as praças com maiores índices de evasão.",
